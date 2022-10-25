@@ -1,9 +1,6 @@
-# Header
+# Technovert Task
 
-Some description
-Added Here
-## Sub header
-Sub header description added
+Task given by KEKA to create a static webpage
 
 ## Implementation
 
